@@ -1,3 +1,4 @@
+### Hi! there👋
 🔭 I’m currently working on developing a web application for managing student attendance using QR codes at my high school.<br>
 「🔭 現在、高校でQRコードを使用して生徒の出席を管理するためのWebアプリケーションを開発しています。」
 
